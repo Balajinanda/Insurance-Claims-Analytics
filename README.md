@@ -13,12 +13,12 @@ The Insurance Claims Analytics Project is an end-to-end data analytics project d
 - Business analysis
 - Aggregations and filtering
 
-### Python (Upcoming)
+### Python 
 - Data cleaning
 - Exploratory Data Analysis
 - Data visualization
 
-### Power BI (Upcoming)
+### Power BI
 - Dashboard creation
 - KPI reporting
 - Interactive visualizations
