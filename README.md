@@ -38,5 +38,12 @@ Smoking status significantly impacts insurance claim amounts.
 Diabetic customers tend to generate higher claims.
 Regional differences exist in claim expenditure.
 Customer age and BMI are important indicators of insurance risk.
-Skills Dem
+### Skills Demonstrated
+SQL Server
+Data Validation
+Data Analysis
+Aggregations (SUM, AVG, COUNT)
+GROUP BY & CASE Statements
+Customer Segmentation
+Business Intelligence Reporting
 
