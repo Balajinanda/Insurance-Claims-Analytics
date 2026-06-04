@@ -13,7 +13,7 @@ The Insurance Claims Analytics Project is an end-to-end data analytics project d
 - Business analysis
 - Aggregations and filtering
 
-### Python 
+### Python, Visual Studio Code, Jupyter Notebook
 - Data cleaning
 - Exploratory Data Analysis
 - Data visualization
@@ -46,4 +46,33 @@ Aggregations (SUM, AVG, COUNT)
 GROUP BY & CASE Statements
 Customer Segmentation
 Business Intelligence Reporting
+
+## Python Analysis Performed
+
+The dataset was cleaned, validated, and analyzed using Python in Visual Studio Code and Jupyter Notebook. Python was used to perform data quality checks, handle missing values, remove duplicate records, and conduct exploratory data analysis (EDA).
+
+### Data Cleaning
+
+* Loaded and processed insurance data using Pandas.
+* Identified and handled missing values.
+* Removed duplicate records.
+* Created a cleaned dataset for analysis and reporting.
+
+### Exploratory Data Analysis (EDA)
+
+* Analyzed average claim amounts across regions.
+* Compared insurance claims between smokers and non-smokers.
+* Evaluated claim behavior of diabetic and non-diabetic customers.
+* Investigated the relationship between BMI and insurance claim amounts.
+* Generated visualizations using Matplotlib and Seaborn in Jupyter Notebook.
+
+### Skills Demonstrated
+
+* Data Cleaning
+* Data Validation
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Business Insight Generation
+* Python Programming
+
 
