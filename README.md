@@ -133,5 +133,14 @@ An interactive Power BI dashboard was developed to transform insurance claims da
 * Business Intelligence Reporting
 * Data Storytelling
 
+## Conclusion
+
+This project successfully demonstrated an end-to-end data analytics workflow using SQL Server, Python, and Power BI to analyze insurance claims data and uncover meaningful business insights.
+
+Through SQL analysis, customer claim patterns and risk factors were identified. Python was used for data cleaning, validation, and exploratory data analysis, while Power BI transformed the data into interactive dashboards and KPI-driven reports.
+
+The analysis revealed that factors such as smoking status, diabetes, BMI, age, and region have a significant impact on insurance claim amounts. These insights can help insurance providers improve risk assessment, pricing strategies, customer segmentation, and business decision-making.
+
+This project highlights practical skills in data extraction, data cleaning, exploratory analysis, data visualization, dashboard development, and business intelligence reporting, demonstrating the complete analytics lifecycle from raw data to actionable insights.
 
 
