@@ -76,4 +76,62 @@ The dataset was cleaned, validated, and analyzed using Python in Visual Studio C
 * Business Insight Generation
 * Python Programming
 
+## Power BI Dashboard Development
+
+An interactive Power BI dashboard was developed to transform insurance claims data into meaningful business insights and support data-driven decision-making.
+
+### Dashboard Pages
+
+#### Executive Summary
+
+* Total Customers
+* Total Claim Amount
+* Average Claim Amount
+* Average BMI
+* Claims by Region
+* Gender Distribution
+* Smoker Distribution
+* Interactive Slicers
+
+#### Risk Analysis
+
+* Claims by Smoking Status
+* Claims by Diabetes Status
+* BMI vs Claim Amount Analysis
+* Blood Pressure vs Claim Amount Analysis
+
+#### Customer Segmentation
+
+* Claims by Age Group
+* Claims by Number of Children
+* Regional Claim Contribution
+* Customer Summary Table
+
+### DAX Measures Created
+
+* Total Customers
+* Total Claim Amount
+* Average Claim Amount
+* Average BMI
+
+### Key Business Insights
+
+* Smoking status is a major driver of insurance claim costs.
+* Diabetic customers tend to generate higher claim amounts.
+* Regional differences exist in claim expenditure.
+* Higher BMI levels are associated with increased insurance claims.
+* Customer demographics significantly influence insurance risk.
+
+### Power BI Skills Demonstrated
+
+* Dashboard Design
+* Data Visualization
+* KPI Development
+* DAX Measures
+* Interactive Reporting
+* Customer Segmentation
+* Business Intelligence Reporting
+* Data Storytelling
+
+
 
